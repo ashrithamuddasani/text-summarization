@@ -1,2 +1,4 @@
-pypdf
-pdfReader
+streamlit>=1.40 
+transformers>=4.40,<5 
+torch>=2.1 
+pypdf>=4.0
